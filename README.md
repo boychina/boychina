@@ -1,57 +1,45 @@
-<!--
-✨ Hi there! I'm Evan Zhao (aka boychina)
-A frontend engineer who turns web performance data into actionable insights.
--->
+# 👋 I'm Evan Zhao (boychina) | Full-Stack Developer
 
-<h1 align="center">Hi 👋, I'm Evan Zhao</h1>
-<h3 align="center">Building observability tools to make the web faster & more reliable 🚀</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=boychina&label=Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Performance%20Monitoring-blue?style=flat-square" />
+</p>
 
-<p align="center">
-  <a href="https://boychina.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Next.js-000000?logo=next.js&logoColor=white" alt="My Blog"/>
-  </a>
-  <a href="https://github.com/boychina/web-tracing-analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Focus-Web%20Tracing-4385F4?logo=googlechrome&logoColor=white" alt="Web Tracing Project"/>
-  </a>
+### 👨‍💻 关于我 | About Me
+- 🎯 **关注领域**: 前端监控、低代码架构 (NocoBase)、AI 驱动开发。
+- 🌟 **核心项目**: [web-tracing](https://github.com/boychina/web-tracing) (全方位监控), [blog-eggcake](https://github.com/boychina/blog-eggcake) (Next.js 博客)。
+- 💬 **理念**: 代码不仅要跑得快，还要“看”得清。
+
+---
+
+### 📊 状态统计 | GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=boychina&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boychina&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🔭 What I'm Working On
+### 🛠️ 技能树 | Tech Stack
+**Languages:** ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-- **[web-tracing-analysis](https://github.com/boychina/web-tracing-analysis)**: A full-stack frontend observability platform. Tracks performance, errors, resources, user behavior, and even session replay — all in one place.
-- **[blog-eggcake](https://github.com/boychina/blog-eggcake)**: A blazing-fast, markdown-powered blog template built with Next.js. [Live Demo →](https://boychina.github.io)
-- **[nextjs-wordcloud](https://github.com/boychina/nextjs-wordcloud)**: A powerful, interactive word cloud component for React/Next.js using D3.
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Next](https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![D3](https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 
----
+**Backend:** ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Koa](https://img.shields.io/badge/-Koa-333333?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+**Tools:** ![NocoBase](https://img.shields.io/badge/Platform-NocoBase-blue?style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
+### ⚡ 活跃追踪 | Activity Graph
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=boychina&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boychina&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boychina&theme=react-dark&hide_border=true" width="95%" />
 </p>
 
 ---
 
-### 💬 Let's Connect!
-
-- 🌐 **Portfolio**: [https://boychina.github.io](https://boychina.github.io)
-- 📫 **How to reach me**: Find me on [GitHub Discussions](https://github.com/boychina) or open an issue in any of my repos!
-
-<!---
-boychina/boychina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<p align="center">
+  <a href="https://boychina.github.io">Blog</a> • <a href="mailto:boychina@outlook.com">Email</a>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="80%"/>
+</p>
