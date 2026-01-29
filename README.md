@@ -15,7 +15,7 @@
 ### 📊 状态统计 | GitHub Stats (Optimized)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=boychina&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boychina&layout=compact&theme=radical&hide_border=true&hide=html,css" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boychina&layout=compact&theme=radical&hide_border=true&hide=css" height="150" />
 </p>
 
 ---
