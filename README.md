@@ -6,7 +6,7 @@
 </p>
 
 ### 👨‍💻 关于我 | About Me
-- 🎯 **关注领域**: 前端监控、低代码架构 (NocoBase)、AI 驱动开发。
+- 🎯 **关注领域**: 前端监控、低代码开发、AI驱动开发、协同工具等。
 - 🌟 **核心项目**: [web-tracing](https://github.com/boychina/web-tracing) (全方位监控), [blog-eggcake](https://github.com/boychina/blog-eggcake) (Next.js 博客)。
 - 💬 **理念**: 代码不仅要跑得快，还要跑得稳。
 
